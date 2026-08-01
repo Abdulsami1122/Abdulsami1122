@@ -2,7 +2,7 @@
 
 # 👋 I'm Abdul Sami
 
-### Full Stack Developer | Software Engineer | MERN Stack Developer
+### Full Stack Developer 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Next.js+Developer;Learning+DevOps+%26+Docker" />
@@ -80,30 +80,6 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 🟢 DevOps
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -128,11 +104,11 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 <p align="left">
 
-📧 Email: **techwiserconsulting2025@gmail.com**
+📧 Email: **samij7141@gmail.com**
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/abdul-sami-304a162b1/
 
-🌍 Portfolio: https://your-portfolio.com
+🌍 Portfolio: main-portfoilio-sami.vercel.app
 
 </p>
 
