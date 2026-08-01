@@ -2,7 +2,7 @@
 
 # 👋 I'm Abdul Sami
 
-### Full Stack Developer 
+### Full Stack Developer | Software Engineer |  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Next.js+Developer;" />
@@ -82,10 +82,12 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 🟢 DevOps
 
+🟢 AI Engineer
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulsami1122&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 # 🌐 Connect With Me
