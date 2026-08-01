@@ -84,10 +84,15 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 🟢 AI Engineer
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdulsami1122&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulsami1122&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsami1122&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulsami1122&theme=tokyonight"/>
 </p>
 
 # 🌐 Connect With Me
