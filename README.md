@@ -87,7 +87,7 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulsami1122&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdulsami1122&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </p>
 
 # 🌐 Connect With Me
@@ -98,7 +98,7 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 💼 LinkedIn: https://www.linkedin.com/in/abdul-sami-304a162b1/
 
-🌍 Portfolio: https://www.main-portfoilio-sami.vercel.app
+🌍 Portfolio: https://main-portfoilio-sami.vercel.app/
 
 </p>
 
