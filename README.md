@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Next.js+Developer;" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulsami1122&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -20,7 +22,7 @@ I am **Abdul Sami**, a passionate **Full Stack Developer** and **Software Engine
 
 My expertise lies in developing complete web solutions using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** along with **Next.js** and **PostgreSQL**. I enjoy transforming ideas into real-world applications with clean code and user-friendly interfaces.
 
-Currently, I am expanding my expertise in **DevOps**, **Docker**, and modern deployment technologies to become a well-rounded Full Stack Engineer.
+Currently, I am expanding my expertise in **DevOps**, and modern deployment technologies to become a well-rounded Full Stack Engineer.
 
 I am always eager to learn new technologies, solve challenging problems, and build high-quality software that creates real value.
 
@@ -80,25 +82,11 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 🟢 DevOps
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -108,7 +96,7 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 💼 LinkedIn: https://www.linkedin.com/in/abdul-sami-304a162b1/
 
-🌍 Portfolio: main-portfoilio-sami.vercel.app
+🌍 Portfolio: https://www.main-portfoilio-sami.vercel.app
 
 </p>
 
