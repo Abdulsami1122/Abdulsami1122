@@ -87,12 +87,20 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulsami1122&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsami1122&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulsami1122&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsami1122&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdulsami1122&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Abdulsami1122&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulsami1122&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 # 🌐 Connect With Me
