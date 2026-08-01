@@ -5,7 +5,7 @@
 ### Full Stack Developer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Next.js+Developer;Learning+DevOps+%26+Docker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Next.js+Developer;" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
