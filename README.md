@@ -22,19 +22,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-👨‍💻 **Full Stack Developer**
+I am **Abdul Sami**, a passionate **Full Stack Developer** and **Software Engineer** with **2 years of experience** in building modern, responsive, and scalable web applications.
 
-💼 **Software Engineer**
+My expertise lies in developing complete web solutions using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** along with **Next.js** and **PostgreSQL**. I enjoy transforming ideas into real-world applications with clean code and user-friendly interfaces.
 
-🚀 **2+ Years of Experience**
+Currently, I am expanding my expertise in **DevOps**, and modern deployment technologies to become a well-rounded Full Stack Engineer.
 
-🌍 Passionate about building scalable web applications.
+I am always eager to learn new technologies, solve challenging problems, and build high-quality software that creates real value.
 
-⚡ Specialized in **MERN Stack**, **Next.js**, and **PostgreSQL**.
-
-🐳 Currently learning **Docker**, **DevOps**, and **Cloud Technologies**.
-
-🤖 Future Goal: **AI Engineer**
 
 ---
 
