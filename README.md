@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0078FF&height=220&section=header&text=Abdul%20Sami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 # 👋 Hi, I'm Abdul Sami
 
 ### 🚀 Full Stack Developer | Software Engineer
