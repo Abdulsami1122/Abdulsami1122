@@ -80,18 +80,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=abdulsami1122&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=abdulsami1122&show_icons=true&theme=tokyonight&cache_seconds=1800)"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsami1122&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -109,44 +97,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsami1122&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulsami1122&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/abdulsami1122/abdulsami1122/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-🟢 MERN Stack
-
-🟢 Next.js
-
-🟢 PostgreSQL
-
-🟢 Docker
-
-🟢 DevOps
-
-🟢 AI Engineering
-
----
 
 # 🌐 Connect With Me
 
