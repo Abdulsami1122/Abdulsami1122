@@ -33,18 +33,6 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 
 ---
 
-# 💼 Experience
-
-- 💻 Full Stack Developer
-- 👨‍💻 Software Engineer
-- 🌐 Responsive Web Development
-- ⚡ REST API Development
-- 🔐 Authentication & Authorization
-- 📊 Database Design
-- 🚀 Deployment & DevOps Basics
-
----
-
 # 🚀 Tech Stack
 
 ### 🎨 Frontend
@@ -72,17 +60,6 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdulsami1122&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
