@@ -59,14 +59,6 @@ I am always eager to learn new technologies, solve challenging problems, and bui
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
 
----
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsami1122&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 # 🌐 Connect With Me
 
